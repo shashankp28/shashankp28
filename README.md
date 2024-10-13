@@ -11,7 +11,9 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shashankp2832/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Shashank P" height="40" width="60" ></i>
+<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
+</a>
+<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
 </p>
 
