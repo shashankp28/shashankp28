@@ -9,12 +9,12 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
   - 🌱 I’m currently learning; The Rust Language
   - 💬 Experience: **C, C++, Python, Rust, Docker**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/shashankp2832/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+<h3 align="left">Connect with me:
+  <br>
+  <a href="https://www.linkedin.com/in/shashankp2832/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;" />
   </a>
-</p>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp28&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp28" /> </p>
 
@@ -50,4 +50,4 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
 </table>
 
 ------
-[shashankp28](https://github.com/shashankp28)
+<a href="https://github.com/shashankp28" target="_blank" rel="noopener noreferrer">shashankp28</a>
