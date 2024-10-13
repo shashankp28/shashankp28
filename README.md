@@ -10,11 +10,10 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
   - 💬 Experience: **C, C++, Python, Rust, Docker**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/shashankp2832/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp28&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp28" /> </p>
