@@ -2,12 +2,12 @@
 
 ### Hello 🌎, I'm Shashank P
 
-Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Science. I enjoy problem-solving and have experience in Python, C/C++. I am currently working as a Software EEngineer at Arista Networks!
+Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Science. I enjoy problem-solving and have experience in Python, C/C++. I am currently working as a Software Engineer at Arista Networks!
 
 
   - 🔭 I’m currently working on making a chess bot using Rust
   - 🌱 I’m currently learning; The Rust Language
-  - 💬 Ask me about **C, C++, Python, Rust, Docker**
+  - 💬 Experience: **C, C++, Python, Rust, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,5 +49,4 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
 </table>
 
 ------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
+[shashankp28](https://github.com/shashankp28)
