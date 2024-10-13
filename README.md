@@ -6,8 +6,8 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
 
 
   - 🔭 I’m currently working on making a chess bot using Rust
-  - 🌱 I’m currently learning; The Rust Language
-  - 💬 Experience: **C, C++, Python, Rust, Docker**
+  - 🌱 Experience: **C, C++, Python, Rust, Docker**
+  - 💬 Email Id: shashankp2832@gmail.com
 
 <h3 align="left">Connect with me:
   <br>
@@ -27,7 +27,6 @@ Hey, I'm Shashank P, graduated form IIT Dharwad with a degree in Computer Scienc
 <div align="center">
   <a href="https://github.com/shashankp28">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankp28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shashankp28"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankp28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shashankp28"/>
   </a>
 </div>
 <p align="center">
