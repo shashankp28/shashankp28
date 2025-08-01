@@ -42,7 +42,7 @@
 ---
 
 <p align="right">
-  <a href="https://github.com/shashankp28/public.pem" target="_blank">
+  <a href="https://raw.githubusercontent.com/shashankp28/shashankp28/refs/heads/main/public.pem" target="_blank">
     <img src="https://raw.githubusercontent.com/shashankp28/shashankp28/main/qr.png" alt="QR: Public Key" width="100"/>
   </a><br>
   <a href="https://raw.githubusercontent.com/shashankp28/shashankp28/refs/heads/main/public.pem" target="_blank">public.pem</a>
