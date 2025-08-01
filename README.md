@@ -41,4 +41,12 @@
 
 ---
 
+<p align="right">
+  <a href="https://github.com/shashankp28/public.pem" target="_blank">
+    <img src="https://raw.githubusercontent.com/shashankp28/shashankp28/main/public.png" alt="QR: Public Key" width="100"/>
+  </a><br>
+  <a href="https://github.com/shashankp28/public.pem" target="_blank">public.pem</a>
+</p>
+---
+
 <p align="center"><a href="https://github.com/shashankp28" target="_blank">shashankp28</a></p>
